@@ -16,3 +16,4 @@ a.out
 a-*.cpp.*r.*
 *.big
 *.gch
+*.nav
